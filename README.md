@@ -8,7 +8,6 @@ AI systems builder focused on intelligent automation, LLM workflows and data-dri
 
 ---
 
-# 👋 Tomer Biton
 
 AI & Data professional specializing in **LLM-powered automation, data pipelines and SaaS integrations**.
 
