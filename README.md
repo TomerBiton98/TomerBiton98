@@ -8,7 +8,6 @@ AI systems builder focused on intelligent automation, LLM workflows and data-dri
 
 ---
 
-
 AI & Data professional specializing in **LLM-powered automation, data pipelines and SaaS integrations**.
 
 I build systems that connect **AI models, APIs and business data** to generate insights and automate workflows.
