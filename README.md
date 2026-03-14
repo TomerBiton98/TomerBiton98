@@ -5,7 +5,7 @@
 <p align="center">
 AI systems builder focused on intelligent automation, LLM workflows and data-driven platforms.
 </p>
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TomerBiton98&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
 ---
 
 AI & Data professional specializing in **LLM-powered automation, data pipelines and SaaS integrations**.
