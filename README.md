@@ -38,7 +38,7 @@ I build systems that connect **AI models, APIs and business data** to generate i
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white)
 
----
+
 
 ### ⚙️ Backend & APIs
 
