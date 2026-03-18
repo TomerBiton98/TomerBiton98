@@ -30,13 +30,22 @@ I build systems that connect **AI models, APIs and business data** to generate i
 # 🚀 Tech Stack
 
 ### 🧠 AI / LLM
-<p align="left">
+<p align="left" style="white-space:nowrap;">
+
   <img src="https://skillicons.dev/icons?i=python" height="40"/>
-  <img src="https://cdn.simpleicons.org/openai/412991" height="40"/>
+
+  <img src="https://cdn.simpleicons.org/openai/FFFFFF" height="40" style="background:#412991;border-radius:6px;padding:4px;"/>
+
   <img src="https://cdn.simpleicons.org/google/4285F4" height="40"/>
-  <img src="https://cdn.simpleicons.org/anthropic/FFFFFF" height="40" style="background:#000;border-radius:6px;padding:4px;" />
+
+  <img src="https://cdn.simpleicons.org/anthropic/FFFFFF" height="40"
+       style="background:#000;border-radius:6px;padding:4px;" />
+
   <img src="https://cdn.simpleicons.org/huggingface/FFD21F" height="40"/>
-  <img src="https://ollama.com/public/ollama.png" height="40" style="background:#111;border-radius:6px;padding:4px;" />
+
+  <img src="https://ollama.com/public/ollama.png" height="40"
+       style="filter: invert(1); background:#111; border-radius:6px; padding:4px;" />
+
 </p>
 
 ### ⚙️ Backend & APIs
