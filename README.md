@@ -30,57 +30,50 @@ I build systems that connect **AI models, APIs and business data** to generate i
 # 🚀 Tech Stack
 
 ### 🧠 AI / LLM
-<p align="left" style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>
 
-  <img src="https://cdn.simpleicons.org/openai/FFFFFF" height="40"
-       style="background:#412991;border-radius:6px;padding:5px;" />
-
-  <img src="https://cdn.simpleicons.org/google/4285F4" height="40"/>
-
-  <img src="https://cdn.simpleicons.org/anthropic/FFFFFF" height="40"
-       style="background:#000;border-radius:6px;padding:5px;" />
-
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21F" height="40"/>
-
-  <img src="https://ollama.com/public/ollama.png" height="40"
-       style="filter: invert(1); background:#111; border-radius:6px; padding:5px;" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white)
 
 ---
 
 ### ⚙️ Backend & APIs
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi" height="40"/>
-</p>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
 ### 🗄️ Data & Storage
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" height="40"/>
-</p>
+
+![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
 ### 🎨 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind" height="40"/>
-</p>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
 ### 🔗 Integrations
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=graphql,postman" height="40"/>
-</p>
+
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ### 🛠️ Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40"/>
-</p>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 # 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=TomerBiton98&theme=tokyonight)
