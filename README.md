@@ -29,48 +29,48 @@ I build systems that connect **AI models, APIs and business data** to generate i
 ---
 # 🚀 Tech Stack
 
-### 🧠 AI / LLM
-<p align="left" style="white-space:nowrap;">
+<p style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
+  <strong>🧠 AI / LLM</strong>
 
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" height="36"/>
 
-  <img src="https://cdn.simpleicons.org/openai/FFFFFF" height="40" style="background:#412991;border-radius:6px;padding:4px;"/>
+  <img src="https://cdn.simpleicons.org/openai/FFFFFF" height="36"
+       style="background:#412991;border-radius:6px;padding:4px;" />
 
-  <img src="https://cdn.simpleicons.org/google/4285F4" height="40"/>
+  <img src="https://cdn.simpleicons.org/google/4285F4" height="36"/>
 
-  <img src="https://cdn.simpleicons.org/anthropic/FFFFFF" height="40"
+  <img src="https://cdn.simpleicons.org/anthropic/FFFFFF" height="36"
        style="background:#000;border-radius:6px;padding:4px;" />
 
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21F" height="40"/>
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21F" height="36"/>
 
-  <img src="https://ollama.com/public/ollama.png" height="40"
+  <img src="https://ollama.com/public/ollama.png" height="36"
        style="filter: invert(1); background:#111; border-radius:6px; padding:4px;" />
-
 </p>
 
-### ⚙️ Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi" />
+<p style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
+  <strong>⚙️ Backend & APIs</strong>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi" height="36"/>
 </p>
 
-### 🗄️ Data & Storage
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
+<p style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
+  <strong>🗄️ Data & Storage</strong>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" height="36"/>
 </p>
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind" />
+<p style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
+  <strong>🎨 Frontend</strong>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind" height="36"/>
 </p>
 
-### 🔗 Integrations
-<p>
-  <img src="https://skillicons.dev/icons?i=graphql,postman" />
+<p style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
+  <strong>🔗 Integrations</strong>
+  <img src="https://skillicons.dev/icons?i=graphql,postman" height="36"/>
 </p>
 
-### 🛠️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git" />
+<p style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
+  <strong>🛠️ Tools</strong>
+  <img src="https://skillicons.dev/icons?i=git" height="36"/>
 </p>
 
 # 🔥 Contribution Streak
