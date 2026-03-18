@@ -27,14 +27,12 @@ I build systems that connect **AI models, APIs and business data** to generate i
 • Intelligent Data Interpretation  
 
 ---
-
-## 🚀 Tech Stack
 # 🚀 Tech Stack
 
 ### 🧠 AI / ML
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/huggingface.svg" height="40" style="filter: invert(1);" />
 </p>
 
 ### ⚙️ Backend & APIs
@@ -54,15 +52,14 @@ I build systems that connect **AI models, APIs and business data** to generate i
 
 ### 🔗 Integrations & Systems
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/graphql.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postman.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=graphql,postman" />
 </p>
 
 ### 🛠️ Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git" />
 </p>
----
+
 
 # 🔥 Contribution Streak
 
