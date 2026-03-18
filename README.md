@@ -51,17 +51,17 @@ I build systems that connect **AI models, APIs and business data** to generate i
 
 ---
 
+# 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=TomerBiton98&theme=tokyonight)
+
+---
 # 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TomerBiton98&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomerBiton98&layout=compact&theme=tokyonight)
 
 ---
 
-# 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=TomerBiton98&theme=tokyonight)
-
----
 
 # 📈 Contribution Activity
 
