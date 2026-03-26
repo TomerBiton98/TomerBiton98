@@ -67,16 +67,16 @@ I build systems that connect **AI models, APIs, and business data** to generate 
 
 ## GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TomerBiton98&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TomerBiton98&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TomerBiton98&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TomerBiton98&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TomerBiton98&theme=tokyonight&utcOffset=3" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TomerBiton98&theme=tokyonight" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TomerBiton98&theme=tokyonight" />
 </p>
----
 
 ## Selected Projects
 
