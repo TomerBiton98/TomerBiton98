@@ -6,10 +6,13 @@
   AI systems builder focused on intelligent automation, LLM workflows, and data-driven platforms.
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=200&section=header&text=Tomer%20Biton&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Systems%20%7C%20LLM%20%7C%20Automation&descAlignY=55&descAlign=50" />
-</p>
+<h1 align="center">Tomer Biton</h1>
 
+<p align="center">
+AI Systems & Automation Engineer  
+<br/>
+LLM • RAG • Data Pipelines • Integrations
+</p>
 ---
 
 ## About Me
