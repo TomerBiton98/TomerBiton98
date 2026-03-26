@@ -97,14 +97,7 @@ End-to-end automation flows connecting CRM, ERP, and SaaS platforms using APIs, 
 - Intelligent SaaS products
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0a0e14,100:111827&height=220&section=header&text=Tomer%20Biton&fontSize=42&fontColor=69e1ff&animation=fadeIn&desc=AI%20Systems%20%7C%20LLM%20%7C%20Automation&descAlignY=60" />
-</p>
 
-<p align="center">
-  <sub>Building intelligent systems that connect AI, data, and business workflows</sub>
-</p>
-## Connect
 
 <p align="left">
   <a href="https://www.tomer-biton.com">🌐 Website</a><br/>
