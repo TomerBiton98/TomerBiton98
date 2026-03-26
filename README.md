@@ -6,13 +6,13 @@
   AI systems builder focused on intelligent automation, LLM workflows, and data-driven platforms.
 </p>
 
-<h1 align="center">Tomer Biton</h1>
-
 <p align="center">
-AI Systems & Automation Engineer  
-<br/>
-LLM • RAG • Data Pipelines • Integrations
+  <a href="https://www.tomer-biton.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tomer-biton"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Tel%20Aviv%2C%20Israel-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=TomerBiton98&style=for-the-badge&color=0e75b6" />
 </p>
+
 ---
 
 ## About Me
