@@ -36,7 +36,7 @@ I build systems that connect **AI models, APIs, and business data** to generate 
 
 ## 🚀 Tech Stack
 
-### 🧠 AI / LLM / Data
+### 🧠 AI / LLM / RAG
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=yellow)
 ![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai)
 ![Gemini](https://img.shields.io/badge/Gemini-111827?style=for-the-badge&logo=google)
@@ -44,23 +44,27 @@ I build systems that connect **AI models, APIs, and business data** to generate 
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-111827?style=for-the-badge&logo=huggingface)
 ![Ollama](https://img.shields.io/badge/Ollama-111827?style=for-the-badge)
 
-### ⚙️ Backend / APIs
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi)
-![GraphQL](https://img.shields.io/badge/GraphQL-111827?style=for-the-badge&logo=graphql)
+### 📊 Data Engineering
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas)
+![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql)
 ![Supabase](https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase)
 
-### 🎨 Frontend / Tools
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwindcss)
+### ⚙️ Backend / APIs / Systems
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs)
+![GraphQL](https://img.shields.io/badge/GraphQL-111827?style=for-the-badge&logo=graphql)
+![REST APIs](https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge)
+
+### 🚀 DevOps / Infra
 ![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
 
----
+### 🎨 Frontend (Supporting)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwindcss)
 
 ## 📊 GitHub Analytics
 
