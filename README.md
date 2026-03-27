@@ -1,72 +1,110 @@
+# 🧠 Tomer Biton  
+### AI Systems & Automation Engineer  
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=32&center=true&vCenter=true&width=900&lines=Hi+I'm+Tomer+Biton;AI+Systems+%26+Automation+Engineer;LLM+%7C+RAG+%7C+Data+Pipelines+%7C+API+Integrations;Building+AI+Platforms+From+Idea+to+Production" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=32&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;LLM+%7C+RAG+%7C+Automation+%7C+Data+Pipelines;Building+Production-Ready+AI+Platforms" />
 </p>
 
 <p align="center">
-  AI systems builder focused on intelligent automation, LLM workflows, and data-driven platforms.
+  Designing and building intelligent systems that connect <b>AI models, data, and business operations</b> into real-world impact.
 </p>
 
 <p align="center">
-  <a href="https://www.tomer-biton.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tomer-biton"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Tel%20Aviv%2C%20Israel-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=TomerBiton98&style=for-the-badge&color=0e75b6" />
+  <a href="https://www.tomer-biton.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tomer-biton">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Tel%20Aviv-Israel-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 
-## About Me
+## 🧩 About
 
-AI & Data professional specializing in **LLM-powered automation, data pipelines, SaaS integrations, and intelligent business systems**.
+AI & Data professional focused on building **production-grade intelligent systems**.
 
-I build systems that connect **AI models, APIs, and business data** to generate insights, automate workflows, and support real-world decision making.
+I specialize in designing architectures that combine:
 
----
+- LLMs & reasoning pipelines  
+- Structured + unstructured data  
+- APIs & SaaS platforms  
+- Automation & orchestration  
 
-## Core Focus
-
-- **AI Automation Systems**
-- **LLM + RAG Architectures**
-- **Data Pipelines & APIs**
-- **SaaS Integrations** (CRM / ERP / AI Platforms)
-- **Intelligent Data Interpretation**
-- **Workflow Orchestration & Automation**
+The goal: **turn data into decisions and workflows into autonomous systems.**
 
 ---
 
-## 🚀 Tech Stack
+## ⚡ Core Expertise
 
-### 🧠 AI / LLM / RAG
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=yellow)
-![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai)
-![Gemini](https://img.shields.io/badge/Gemini-111827?style=for-the-badge&logo=google)
-![Claude](https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-111827?style=for-the-badge&logo=huggingface)
-![Ollama](https://img.shields.io/badge/Ollama-111827?style=for-the-badge)
+- **LLM Systems & RAG Architectures**
+- **AI Agents & Autonomous Workflows**
+- **Data Pipelines & Processing Systems**
+- **API Integrations (CRM / ERP / SaaS)**
+- **Decision Intelligence & AI Reasoning**
+- **End-to-End System Design (Idea → Production)**
+
+---
+
+## 🛠 Tech Stack
+
+### 🧠 AI / LLM
+`Python` • `OpenAI` • `Gemini` • `Claude` • `HuggingFace` • `Ollama`
 
 ### 📊 Data Engineering
-![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas)
-![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql)
-![Supabase](https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase)
+`Pandas` • `SQL` • `PostgreSQL` • `MySQL` • `Supabase`
 
-### ⚙️ Backend / APIs / Systems
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs)
-![GraphQL](https://img.shields.io/badge/GraphQL-111827?style=for-the-badge&logo=graphql)
-![REST APIs](https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge)
+### ⚙️ Backend & Systems
+`FastAPI` • `Node.js` • `GraphQL` • `REST APIs`
 
-### 🚀 DevOps / Infra
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
+### 🚀 DevOps
+`Docker` • `Git`
 
-### 🎨 Frontend (Supporting)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwindcss)
+### 🎨 Frontend
+`React` • `TypeScript` • `TailwindCSS`
 
-## 📊 GitHub Analytics
+---
+
+## 🚀 Selected Projects
+
+### 🧠 AI Reasoning Engine  
+LLM-powered system for interpreting structured & unstructured data using automated reasoning pipelines.  
+**Focus:** NLP + decision workflows + model orchestration  
+
+---
+
+### 🌍 OSINT Fusion Intelligence System  
+Multi-source intelligence platform combining:
+- Satellite data  
+- News ingestion  
+- Credibility scoring  
+
+**Focus:** data fusion + predictive analysis  
+
+---
+
+### 🗂 Knowledge Retention Platform  
+RBAC-based SaaS system for:
+- Document management  
+- Version control  
+- Operational dashboards  
+
+**Stack:** Node.js, MySQL  
+
+---
+
+### 🔗 AI Automation Workflows  
+End-to-end automation pipelines connecting:
+- CRM  
+- ERP  
+- SaaS tools  
+
+**Focus:** API orchestration + LLM-driven decisions  
+
+---
+
+## 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TomerBiton98&theme=github_dark" />
@@ -76,34 +114,21 @@ I build systems that connect **AI models, APIs, and business data** to generate 
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TomerBiton98&theme=github_dark" />
 </p>
 
+---
 
-### AI Reasoning Engine
-LLM + NLP pipeline for interpreting structured and unstructured data using Hugging Face models and automated reasoning workflows.
+## 🎯 Current Focus
 
-### OSINT Fusion Intelligence System
-An AI pipeline combining satellite imagery, news ingestion, and predictive credibility scoring for multi-source intelligence analysis.
-
-### Knowledge Retention Platform
-RBAC-based SaaS platform for secure document management, version control, dashboards, and operational visibility, built with Node.js and MySQL.
-
-### AI Automation Workflows
-End-to-end automation flows connecting CRM, ERP, and SaaS platforms using APIs, orchestration logic, and LLM-based decision support.
+- AI Agents & multi-step reasoning systems  
+- Autonomous business workflows  
+- Production-ready LLM applications  
+- Data-aware AI systems  
+- Scalable SaaS intelligence platforms  
 
 ---
 
-## What I’m Interested In
-
-- AI agents
-- Autonomous workflows
-- LLM applications in production
-- Data-aware automation systems
-- API-based business platforms
-- Intelligent SaaS products
-
----
-
+## 🌐 Connect
 
 <p align="left">
-  <a href="https://www.tomer-biton.com">🌐 Website</a><br/>
+  <a href="https://www.tomer-biton.com">🌐 Portfolio</a><br/>
   <a href="https://www.linkedin.com/in/tomer-biton">💼 LinkedIn</a>
 </p>
