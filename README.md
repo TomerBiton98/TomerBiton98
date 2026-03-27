@@ -75,7 +75,7 @@ I build systems that connect **AI models, APIs, and business data** to generate 
 <p align="center">
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TomerBiton98&theme=github_dark" />
 </p>
-## Selected Projects
+
 
 ### AI Reasoning Engine
 LLM + NLP pipeline for interpreting structured and unstructured data using Hugging Face models and automated reasoning workflows.
