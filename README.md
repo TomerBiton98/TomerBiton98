@@ -1,4 +1,4 @@
-# 🧠 Tomer Biton  
+#Tomer Biton  
 ### AI Systems Engineer | Automation, Integrations & Intelligent Platforms  
 
 <p align="center">
@@ -33,8 +33,6 @@ I operate at the intersection of:
 
 Unlike pure engineers, I combine **technical depth + business understanding + customer-facing experience**.
 
-📌 I’ve taken multiple systems from **concept → production → real users** across engineering, product, and customer environments. 
-
 ---
 
 ## ⚡ What I Bring
@@ -56,7 +54,7 @@ Unlike pure engineers, I combine **technical depth + business understanding + cu
 - Detects anomalies + generates explainable insights  
 - Served via FastAPI  
 
-👉 Focus: **data → reasoning → decisions** :contentReference[oaicite:1]{index=1}  
+👉 Focus: **data → reasoning → decisions** 
 
 ---
 
@@ -64,7 +62,7 @@ Unlike pure engineers, I combine **technical depth + business understanding + cu
 - Combines satellite imagery (Sentinel), news, and AI forecasting  
 - Automated credibility scoring + reporting  
 
-👉 Focus: **multi-source intelligence + prediction** :contentReference[oaicite:2]{index=2}  
+👉 Focus: **multi-source intelligence + prediction**
 
 ---
 
@@ -73,7 +71,7 @@ Unlike pure engineers, I combine **technical depth + business understanding + cu
 - Document versioning + dashboards  
 - Node.js + MySQL + REST APIs  
 
-👉 Focus: **enterprise knowledge systems** :contentReference[oaicite:3]{index=3}  
+👉 Focus: **enterprise knowledge systems**
 
 ---
 
@@ -82,30 +80,7 @@ Unlike pure engineers, I combine **technical depth + business understanding + cu
 - Designed reusable automation blueprints  
 - Delivered production deployments for real customers  
 
-👉 Focus: **AI + APIs + real business workflows** :contentReference[oaicite:4]{index=4}  
-
----
-
-## 💼 Experience Snapshot
-
-### 🏢 Nogamy — Account Manager & Business Development  
-- Own full customer lifecycle (onboarding → expansion)  
-- Drive upsell & growth through product alignment  
-
-### 🤝 Engini — Partnerships, Solutions Engineering & AI Integrations  
-- Built and deployed **AI automation systems in production**  
-- Integrated CRM / ERP / SaaS platforms  
-- Onboarded 15+ global partners (US market)  
-- Led implementations + created scalable automation frameworks  
-
-### 🚀 MiluimTech — Co-Founder & COO  
-- Built AI-powered internal tool (LLM + RAG)  
-- Led national-scale initiative (1,200+ participants, 23 companies)  
-
-### 🧭 Intelligence Unit — Project Manager  
-- Managed complex multi-stakeholder tech projects  
-- Agile / Scrum delivery across international environments  
-
+👉 Focus: **AI + APIs + real business workflows** 
 ---
 
 ## 🛠 Tech Stack
@@ -127,17 +102,6 @@ Unlike pure engineers, I combine **technical depth + business understanding + cu
 
 ### 🎨 Frontend
 `React` • `TypeScript` • `TailwindCSS`
-
----
-
-## 🧠 How I Think
-
-- Systems > scripts  
-- Impact > complexity  
-- Automation > manual work  
-- Product thinking > isolated features  
-
-I focus on building **scalable, real-world systems — not just prototypes.**
 
 ---
 
