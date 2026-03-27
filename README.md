@@ -29,11 +29,11 @@ I operate at the intersection of:
 - AI (LLMs, RAG, reasoning systems)
 - Data (pipelines, structured + unstructured)
 - Business systems (CRM, ERP, SaaS)
-- Execution (from idea → production)
+
 
 Unlike pure engineers, I combine **technical depth + business understanding + customer-facing experience**.
 
-📌 I’ve taken multiple systems from **concept → production → real users** across engineering, product, and customer environments. :contentReference[oaicite:0]{index=0}  
+📌 I’ve taken multiple systems from **concept → production → real users** across engineering, product, and customer environments. 
 
 ---
 
