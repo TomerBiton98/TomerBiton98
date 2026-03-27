@@ -1,12 +1,12 @@
 # 🧠 Tomer Biton  
-### AI Systems & Automation Engineer  
+### AI Systems Engineer | Automation, Integrations & Intelligent Platforms  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=32&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;LLM+%7C+RAG+%7C+Automation+%7C+Data+Pipelines;Building+Production-Ready+AI+Platforms" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=32&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;LLM+%7C+RAG+%7C+Agents+%7C+Automation;From+Business+Problem+→+Production+System;Building+AI+Platforms+That+Actually+Deliver" />
 </p>
 
 <p align="center">
-  Designing and building intelligent systems that connect <b>AI models, data, and business operations</b> into real-world impact.
+  I build <b>production-ready AI systems</b> that connect models, data, and business workflows into real-world automation and decision-making.
 </p>
 
 <p align="center">
@@ -21,86 +21,123 @@
 
 ---
 
-## 🧩 About
+## 🧩 About Me
 
-AI & Data professional focused on building **production-grade intelligent systems**.
+AI & Data professional specializing in **LLM-powered automation, API integrations, and intelligent systems**.
 
-I specialize in designing architectures that combine:
+I operate at the intersection of:
+- AI (LLMs, RAG, reasoning systems)
+- Data (pipelines, structured + unstructured)
+- Business systems (CRM, ERP, SaaS)
+- Execution (from idea → production)
 
-- LLMs & reasoning pipelines  
-- Structured + unstructured data  
-- APIs & SaaS platforms  
-- Automation & orchestration  
+Unlike pure engineers, I combine **technical depth + business understanding + customer-facing experience**.
 
-The goal: **turn data into decisions and workflows into autonomous systems.**
+📌 I’ve taken multiple systems from **concept → production → real users** across engineering, product, and customer environments. :contentReference[oaicite:0]{index=0}  
 
 ---
 
-## ⚡ Core Expertise
+## ⚡ What I Bring
 
-- **LLM Systems & RAG Architectures**
-- **AI Agents & Autonomous Workflows**
-- **Data Pipelines & Processing Systems**
-- **API Integrations (CRM / ERP / SaaS)**
-- **Decision Intelligence & AI Reasoning**
-- **End-to-End System Design (Idea → Production)**
+- Build **LLM-based systems with real business impact**
+- Design **RAG pipelines over operational data**
+- Develop **AI agents & decision-making workflows**
+- Orchestrate systems via **APIs, webhooks, and integrations**
+- Deliver **end-to-end solutions (product + backend + integration layer)**
+- Bridge **technical + business + customer needs**
+
+---
+
+## 🚀 Real Projects
+
+### 🧠 AI Reasoning Engine for Data Interpretation  
+- NLP pipeline using Hugging Face models  
+- Handles structured + unstructured data  
+- Detects anomalies + generates explainable insights  
+- Served via FastAPI  
+
+👉 Focus: **data → reasoning → decisions** :contentReference[oaicite:1]{index=1}  
+
+---
+
+### 🌍 OSINT Fusion Intelligence System  
+- Combines satellite imagery (Sentinel), news, and AI forecasting  
+- Automated credibility scoring + reporting  
+
+👉 Focus: **multi-source intelligence + prediction** :contentReference[oaicite:2]{index=2}  
+
+---
+
+### 🗂 Knowledge Retention SaaS Platform  
+- RBAC system (Admin / PMO / User / Contractor)  
+- Document versioning + dashboards  
+- Node.js + MySQL + REST APIs  
+
+👉 Focus: **enterprise knowledge systems** :contentReference[oaicite:3]{index=3}  
+
+---
+
+### 🔗 AI Automation & Integration Workflows  
+- Built LLM-powered automation connecting CRM, ERP, and SaaS tools  
+- Designed reusable automation blueprints  
+- Delivered production deployments for real customers  
+
+👉 Focus: **AI + APIs + real business workflows** :contentReference[oaicite:4]{index=4}  
+
+---
+
+## 💼 Experience Snapshot
+
+### 🏢 Nogamy — Account Manager & Business Development  
+- Own full customer lifecycle (onboarding → expansion)  
+- Drive upsell & growth through product alignment  
+
+### 🤝 Engini — Partnerships, Solutions Engineering & AI Integrations  
+- Built and deployed **AI automation systems in production**  
+- Integrated CRM / ERP / SaaS platforms  
+- Onboarded 15+ global partners (US market)  
+- Led implementations + created scalable automation frameworks  
+
+### 🚀 MiluimTech — Co-Founder & COO  
+- Built AI-powered internal tool (LLM + RAG)  
+- Led national-scale initiative (1,200+ participants, 23 companies)  
+
+### 🧭 Intelligence Unit — Project Manager  
+- Managed complex multi-stakeholder tech projects  
+- Agile / Scrum delivery across international environments  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🧠 AI / LLM
+### 🧠 AI / LLM / Agents
 `Python` • `OpenAI` • `Gemini` • `Claude` • `HuggingFace` • `Ollama`
 
-### 📊 Data Engineering
-`Pandas` • `SQL` • `PostgreSQL` • `MySQL` • `Supabase`
+### 📊 Data & Pipelines
+`SQL` • `PostgreSQL` • `MySQL` • `Pandas` • `Supabase`
 
-### ⚙️ Backend & Systems
-`FastAPI` • `Node.js` • `GraphQL` • `REST APIs`
+### ⚙️ Backend & Integrations
+`Node.js` • `FastAPI` • `GraphQL` • `REST APIs` • `Webhooks`
 
-### 🚀 DevOps
-`Docker` • `Git`
+### 🔗 Platforms
+`Salesforce` • `HubSpot` • `NetSuite` • `SAP` • `Monday.com`
+
+### 🚀 Systems & Infra
+`Docker` • `Git` • `API Architecture` • `Automation Pipelines`
 
 ### 🎨 Frontend
 `React` • `TypeScript` • `TailwindCSS`
 
 ---
 
-## 🚀 Selected Projects
+## 🧠 How I Think
 
-### 🧠 AI Reasoning Engine  
-LLM-powered system for interpreting structured & unstructured data using automated reasoning pipelines.  
-**Focus:** NLP + decision workflows + model orchestration  
+- Systems > scripts  
+- Impact > complexity  
+- Automation > manual work  
+- Product thinking > isolated features  
 
----
-
-### 🌍 OSINT Fusion Intelligence System  
-Multi-source intelligence platform combining:
-- Satellite data  
-- News ingestion  
-- Credibility scoring  
-
-**Focus:** data fusion + predictive analysis  
-
----
-
-### 🗂 Knowledge Retention Platform  
-RBAC-based SaaS system for:
-- Document management  
-- Version control  
-- Operational dashboards  
-
-**Stack:** Node.js, MySQL  
-
----
-
-### 🔗 AI Automation Workflows  
-End-to-end automation pipelines connecting:
-- CRM  
-- ERP  
-- SaaS tools  
-
-**Focus:** API orchestration + LLM-driven decisions  
+I focus on building **scalable, real-world systems — not just prototypes.**
 
 ---
 
@@ -118,11 +155,11 @@ End-to-end automation pipelines connecting:
 
 ## 🎯 Current Focus
 
-- AI Agents & multi-step reasoning systems  
-- Autonomous business workflows  
-- Production-ready LLM applications  
-- Data-aware AI systems  
-- Scalable SaaS intelligence platforms  
+- AI agents & autonomous workflows  
+- Production LLM systems  
+- API-first intelligent platforms  
+- Data-driven automation  
+- SaaS AI products  
 
 ---
 
