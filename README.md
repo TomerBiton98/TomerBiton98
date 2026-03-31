@@ -1,4 +1,3 @@
-#Tomer Biton  
 ### AI Systems Engineer | Automation, Integrations & Intelligent Platforms  
 
 <p align="center">
