@@ -33,7 +33,6 @@ I operate at the intersection of:
 Unlike pure engineers, I combine **technical depth + business understanding + customer-facing experience**.
 
 ---
-
 ## ⚡ What I Bring
 
 - Build **LLM-based systems with real business impact**
